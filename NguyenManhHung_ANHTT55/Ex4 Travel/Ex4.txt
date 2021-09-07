@@ -1,0 +1,6 @@
+
+Câu 4: Một người đi du lịch, khi chở về mua N đồ vật
+Mổi đồ vật có 2 tham số mô tả: a[i]trọng lượng(gram) và b[i] giá trị đồ vật. a[i] b[i] số nguyên
+Khai bao hải quan, hải quan said: chỉ cho phép tổng trọng lượng k quá M. 
+Hỏi Tổng a[i] <= M
+f(b) == Max

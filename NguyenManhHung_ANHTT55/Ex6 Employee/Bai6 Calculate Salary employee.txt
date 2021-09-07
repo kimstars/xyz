@@ -1,0 +1,5 @@
+Câu 6. Trong một cty có n nhân công, công nhân sản xuất = 5000d * số lượng sp trong tháng đó
+công nhân hành chính = hệ số lương * 1300
++ Xây dựng lớp mô tả lại lưu trữ dữ liệu cho cty đó
++ Tìm người có mức lương nhỏ nhất trong cty
++ Tính tổng mức lương phải chi trả trong tháng

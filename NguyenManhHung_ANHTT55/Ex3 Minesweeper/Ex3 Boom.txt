@@ -1,0 +1,6 @@
+Câu 3: 
+Cho một ma trận có kích thước mxn các giá trị 0 - 1 (file data.txt)
+Giả sử 1 là ô mìn, 0 là k mìn
+Một người đang ở vị trí ô ij = 0, được phép di chuyển ô liền cạnh (sang trái phải, trên dưới)
+Hỏi để người đó ra khỏi ma trận có bao nhiêu đường đi
+Xuất ra file output.txt

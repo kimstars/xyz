@@ -1,0 +1,24 @@
+Ex1: Tren mat phang toa do cho n diem.
+1, Tim hcn co cac canh // truc toa do co kich thuoc
+2, Tim mot bao loi nho nhat chua tat ca cac n diem tren.
+
+Ex2: Cho mot ban co vua la mot ma tran co kich thuoc 8x8
+1, Hoi co the xep duoc toi da bao nhieu quan hau de chung ko an lan nhau.
+2, Thay quan hau bang quan ma
+
+Ex3: Cho mot ma tran co kich thuoc mxn cho ma tran chi co cac gia tri [0;1].
+Trong do, 1 la o co min, 0 thi khong. 1 nguoi o vi tri ij voi X(i,j)=0 dc phep di chuyen duong di de ra khoi ma tran de ko di vao vi tri
+Cho hoi co bao nhieu duong di hop le.
+
+Ex4: Mot nguoi di du lich khi tro ve mua qua luu niem mang ve, mua n do vat. Moi do vat co hai tham so a[i] chi trong luong, b[i] chi gia tri do vat.Cac gia tri a[i], b[i]
+Khi di khai bao hai quan yeu cau tong trong luong do vat khong qua M gam. Hoi nguoi do phai chon do vat ntn sao cho tong trong luong ko vuot qua M gam, nhung gia tri dat max.
+
+Ex5: Cho mot danh sach gom n1 hinh tron, n2 hcn, n3 hinh tam giac; n1,n2,n3 nguyen.
+1, Xay dung cac lop mo ta cac hinh tren.
+2, Chi ra hinh nao co dien tich lon nhat.
+
+Ex6: Trong mot cong ty co n nguoi co hai loai: Cong nhan san xuat luong= so san pham x 5000d
+                                               Nguoi lam hanh chinh luong= he so luong x 1,3 trieu d
+1, Xay dung lop de mo ta qua trinh luu tru.
+2, Tim nguoi co muc luong nho nhat trong cong ty.
+3, Tinh tong quy luong chi tra cua cong ty trong thang.

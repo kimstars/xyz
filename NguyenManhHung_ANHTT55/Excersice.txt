@@ -1,0 +1,43 @@
+Câu 1:Trên mặt phẳng tọa độ: n điểm 
+
++Tìm hình chữ nhật có các cạnh song song trục tọa độ 
+ +Tìm bao đa giác lồi nhỏ nhất chứa toàn bộ các điểm kể trên
+
+
+Câu 2: Cho một bàn cờ quốc tế vua 8x8 (không xoay bàn cờ).
++ Hỏi xếp được tối đa bao nhiêu con hậu nên trên bàn cờ để chúng k ăn nhau
++ Thay hậu bằng mã thành bài mã đi tuần
+
+
+Câu 3: Cho một ma trận có kích thước mxn các giá trị 0 - 1 (file data.txt)
+Giả sử 1 là ô mìn, 0 là k mìn
+Một người đang ở vị trí ô ij = 0, được phép di chuyển ô liền cạnh (sang trái phải, trên dưới)
+Hỏi để người đó ra khỏi ma trận có bao nhiêu đường đi
+Xuất ra file output.txt
+
+
+Câu 4: Một người đi du lịch, khi chở về mua N đồ vật
+Mổi đồ vật có 2 tham số mô tả: a[i]trọng lượng(gram) và b[i] giá trị đồ vật. a[i] b[i] số nguyên
+Khai bao hải quan, hải quan said: chỉ cho phép tổng trọng lượng k quá M. 
+Hỏi Tổng a[i] <= M
+f(b) == Max
+
+
+Câu 5: Cho một danh sách gồm N1 hình tròn, N2 hình chữ nhật, N3 hình tam giác (N1,N2,N3 nguyên dương).
++Xây dựng lớp mô tả các hình trên.
++Trong các hình trên hình nào có diện tích lớn nhất
+
+
+
+Câu 6. Trong một cty có n nhân công, công nhân sản xuất = 5000d * số lượng sp trong tháng đó
+công nhân hành chính = hệ số lương * 1300
++Xây dựng lớp mô tả lại lưu trữ dữ liệu cho cty đó
++ Tìm người có mức lương nhỏ nhất trong cty
++ Tính tổng mức lương phải chi trả trong tháng
+
+
+
+Tối thiếu 3 bài trong 6 bài
+Tối đa 6 bài
+
+Làm 2,3,5,6

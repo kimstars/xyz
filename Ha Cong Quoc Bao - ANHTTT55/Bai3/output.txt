@@ -1,0 +1,11 @@
+0  1  1  0  1  0  
+0  0  0  1  0  0  
+1  0  0  1  0  0  
+0  0  1  0  1  1  
+1  0  1  0  1  1  
+Tu vi tri a[1][1] so phuong an tim duoc la : 5
+1. DDDD
+2. DDL
+3. RDLDDD
+4. RDLDL
+5. L
